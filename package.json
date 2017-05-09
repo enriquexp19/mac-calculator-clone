@@ -1,0 +1,19 @@
+{
+  "name": "Mac-Calculator-Clone",
+  "description": "A small scale version of the Mac calculator that comes with OSX.",
+  "version": "1.0.0",
+  "maintainers": [
+    {
+      "name": "Enrique Perez",
+      "email": "expcoding@gmail.com",
+      "web": "http://enriquexp19.github.io"
+    }
+  ],
+  "repository": [
+    {
+      "type": "git",
+      "url": "https://github.com/enriquexp19/mac-calculator-clone.git"
+    }
+  ],
+  "license": "UNLICENSED"
+}
